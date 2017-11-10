@@ -1,2 +1,4 @@
 #pre
 # gitPractice
+
+あらまっきーkitamu-ggg
